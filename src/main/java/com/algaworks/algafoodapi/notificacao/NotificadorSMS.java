@@ -1,7 +1,6 @@
 package com.algaworks.algafoodapi.notificacao;
 
 import com.algaworks.algafoodapi.modelo.Cliente;
-import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Component;
 
 @TipoDoNotificador(NivelUrgencia.URGENTE)
